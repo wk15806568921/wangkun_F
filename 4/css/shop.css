@@ -1,0 +1,55 @@
+/*--------------header------------*/
+#header{height:41px;background:#fafafc;}
+#header .wrap span{float:left;}
+#header .wrap div{float:right;margin-right:20px;}
+#header .wrap a{font:12px/40px "微软雅黑";margin-right:40px;color:#666666;}
+#header .wrap .a1{position:relative;left:-25px;}
+#header .wrap img{position:absolute;top:2px;left:55px;}
+#header .wrap a:hover{color:#0cbbef;}
+
+/*--------------naver------------*/
+
+#naver{height:82px;border-bottom:1px solid #efefef;}
+#naver .wrap{height:82px;} 
+#naver .wrap .logo{line-height:82px;float:left;}
+#naver .wrap ul{float:left;margin-left: 143px;}
+#naver .wrap ul li{float:left;line-height:82px;padding:0 20px 0 20px;}
+#naver .wrap ul li a{color:black;}
+#naver .wrap ul li a:hover{color:#0cbbef;}	
+#naver .wrap .nav{width:100%;position: absolute;left:0;background:#fff;z-index:3;height:0;overflow:hidden;opacity:0;}	
+#naver .wrap .naver1{overflow:hidden;margin-left:520px;}
+#naver .wrap .naver2{overflow:hidden;margin-left:520px;}
+#naver .wrap .naver3{overflow:hidden;margin-left:520px;}
+#naver .wrap .naver4{overflow:hidden;margin-left:520px;}
+#naver .wrap .naver5{overflow:hidden;margin-left:520px;}
+#naver .wrap .nav dl{float:left;margin-top:18px;margin-right:72px;text-align:center;}
+#naver .wrap .nav dl .dd1{margin-top:-60px;font-size:10px;}
+#naver .wrap .nav dl .dd2{margin-top:-60px;font-size:15px;color:red;}
+
+#naver .wrap .nav .nav_class{margin-left:300px;}
+
+/*---------------main---------------*/
+#top .wrap div{margin-top:10px;}
+#top .wrap div em{color:#00c3f5;}
+#main .wrap {height:800px;}
+#main .wrap .left{width:190px;height:717px;float:left;}
+#main .wrap .right{width:1030px;height:756px;float:right;}
+
+#main .wrap .rightbottom{text-align:center;}
+#main .wrap .rightbottom a{display:block;width:209px;height:287px;border:1px solid #d8d8d8;}
+#main .wrap .rightbottom img{width:140px;height:130px;margin-top:45px;}
+#main .wrap .rightbottom span{display:block;margin-top: 30px;color:gray}
+#main .wrap .rightbottom button{width:30px;height:30px;position:absolute;right:10px;top:10px;}
+#main .wrap  #sss{position:relative;width:209px;height:287px;}
+
+
+
+
+
+
+
+
+
+
+
+

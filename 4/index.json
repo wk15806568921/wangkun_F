@@ -1,0 +1,154 @@
+{
+"pulldown0":[{"title":"魅族PRO 6","images":"images/r1.png","price":"￥2499"},
+	{"title":"魅族PRO 5","images":"images/r2.png","price":"￥2199"}]
+
+,"pulldown1":[{"title":"魅蓝 Mxa","images":"images/r3.png","price":"￥1699"},
+	{"title":"魅蓝 U20","images":"images/r4.png","price":"￥1099"},
+	{"title":"魅蓝 E","images":"images/r5.png","price":"￥1299"},
+	{"title":"魅蓝 3s","images":"images/r6.png","price":"￥699"}]
+
+,"pulldown2":[{"title":"魅蓝 MX6","images":"images/z1.png","price":"￥1999"},
+	{"title":"魅族MX5","images":"images/z2.png","price":"￥1499"},
+	{"title":"魅族MX5e 经典版","images":"images/z3.png","price":"￥1499"}]
+
+,"pulldown3":[{"title":"魅族 EP51蓝牙运动耳机","images":"images/x1.png","price":"￥269"},
+	{"title":"魅族 HD50 头戴式耳机","images":"images/x2.png","price":"￥399"},
+	{"title":"魅族 休闲旅行双肩包","images":"images/x3.png","price":"￥199"}]
+
+,"pulldown4":[{"title":"魅族智能路由器","images":"images/c1.png","price":"￥99"},
+	{"title":"迅雷下载包 TB01","images":"images/c2.png","price":"￥159"},
+	{"title":"乐心运动手环mambo 微信互联","images":"images/c3.png","price":"￥89"}]
+
+,"menu0":[{"title":"魅蓝 Max","images":"images/t1.png"},
+{"title":"魅蓝 note3","images":"images/t2.png"},
+{"title":"魅蓝 U20","images":"images/t3.png"},
+{"title":"魅蓝 3","images":"images/t4.png"},
+{"title":"魅蓝 E","images":"images/t5.png"},
+{"title":"魅蓝 metal","images":"images/t6.png"},
+{"title":"魅蓝 MX6","images":"images/t7.png"},
+{"title":"魅族 PRO","images":"images/t8.png"},
+{"title":"魅族 3s","images":"images/t9.png"},
+{"title":"魅蓝 E星际迷航版","images":"images/t10.png"}]
+
+,"menu1":[{"title":"沁麟2.5L智能靠谱堡","images":"images/y1.png"},
+{"title":"公子小白情感智能机器人","images":"images/y2.png"},
+{"title":"乐范AirPet空气净化器","images":"images/y3.png"},
+{"title":"麦开智能水杯Cuptime2","images":"images/y4.png"},
+{"title":"WeLoop唯乐now2智能手环","images":"images/y5.png"},
+{"title":"控客立体拓展智能排插主体","images":"images/y6.png"},
+{"title":"乐心mambowatch手表","images":"images/y7.png"},
+{"title":"极路客G1智能行车记录仪","images":"images/y8.png"},
+{"title":"乐行天下V5智能电动独轮车","images":"images/y9.png"},
+{"title":"新游智能游戏手柄 新玩Q1","images":"images/y10.png"}]
+
+,"menu2":[{"title":"魅族 EP51蓝牙运动耳机","images":"images/i1.png"},
+{"title":"Skullcandyhesh头戴耳机","images":"images/i2.png"},
+{"title":"魅族HD50头戴式耳机","images":"images/i3.png"},
+{"title":"铁三角 ATH-CLR100","images":"images/i4.png"},
+{"title":"魅族EP-31耳机","images":"images/i5.png"},
+{"title":"Skullcandysmokin buds","images":"images/i6.png"},
+{"title":"先锋 SE-CL51S","images":"images/i7.png"},
+{"title":"FiiO飞傲M3无损音乐播放器","images":"images/i8.png"},
+{"title":"beatsUrbeats 入耳耳机","images":"images/i9.png"},
+{"title":"先锋APSBA202S蓝牙音箱","images":"images/i10.png"}]
+
+,"menu3":[{"title":"魅族只能路由器","images":"images/o1.png"},
+{"title":"魅族移动电源( 标准版 )","images":"images/o2.png"},
+{"title":"魅族移动电源 快充版","images":"images/o3.png"},
+{"title":"魅族路由器 极速版","images":"images/o4.jpg"}]
+
+,"menu4":[{"title":"魅蓝E 纤格纹保护壳","images":"images/a1.png"},
+{"title":"PRO 6只能保护套","images":"images/a2.png"},
+{"title":"MX6智能保护套","images":"images/a3.png"},
+{"title":"魅蓝E 高透保护膜","images":"images/a4.png"},
+{"title":"魅蓝note3 软胶保护壳","images":"images/a5.png"},
+{"title":"魅蓝3s 高透保护膜","images":"images/a6.png"},
+{"title":"魅蓝note3 智能保护膜","images":"images/a7.png"},
+{"title":"魅蓝note3 高透保护膜","images":"images/a8.png"},
+{"title":"魅蓝3 高透保护膜","images":"images/a9.png"},
+{"title":"魅蓝Max高透保护膜","images":"images/a10.png"}]
+
+,"menu5":[{"title":"魅族二合一金属数据线","images":"images/s1.png"},
+{"title":"魅族USB 数据线","images":"images/s2.png"},
+{"title":"魅族Micro USB金属数据线","images":"images/s3.png"},
+{"title":"魅族Type-C金属数据线","images":"images/s4.png"},
+{"title":"魅族Type-C转接头","images":"images/s5.png"},
+{"title":"罗马仕AC10快充适配器","images":"images/s6.png"},
+{"title":"电源适配器","images":"images/s7.png"},
+{"title":"ORICOQC3.0多扣车充头","images":"images/s8.png"},
+{"title":"魅族Type-CUSB数据线","images":"images/s9.png"},
+{"title":"ORICO 4口USB快充充电器","images":"images/s10.png"}]
+
+,"menu6":[{"title":"英特曼迷你旅行小插排","images":"images/d1.png"},
+{"title":"魅族豌豆钥匙包","images":"images/d2.png"},
+{"title":"猎奇(LIEQI)手机镜头","images":"images/d3.png"},
+{"title":"东芝黑甲虫2.5寸移动硬盘","images":"images/d4.png"},
+{"title":"东芝v8 2.5英寸移动硬盘","images":"images/d5.png"},
+{"title":"闪迪至尊告诉OTG手机U盘","images":"images/d6.png"},
+{"title":"幻响风小扇","images":"images/d7.png"},
+{"title":"三星750 SATA3固态硬盘","images":"images/d8.png"},
+{"title":"ORICO 4口USB智能充电器","images":"images/d9.png"},
+{"title":"魅族熊猫金属钥匙扣","images":"images/d10.png"}]
+
+,"recommend0":[{"title":"魅族 MX6",
+"images":"images/f1.png","introduce":"赠环窗智能保护套","price":"￥1999"}
+]
+,"recommend1":[{"title":"魅蓝3s",
+"images":"images/f2.png","introduce":"真金属 指纹全网通","price":"￥699"}
+]
+,"recommend2":[{"title":"魅族PRO 6",
+"images":"images/f3.png","introduce":"12期免息 限量赠耳机及圈套","price":"￥2299"}
+]
+,"recommend3":[{"title":"先锋SEC-CL31 HIFI 立体声耳机",
+"images":"images/f4.png","introduce":"佩戴舒适 防缠绕 无线控","price":"￥59"}
+]
+,"recommend4":[{"title":"暴风魔镜4S-RIO安卓版VR眼镜",
+"images":"images/f5.png","introduce":"虚拟现实3D眼镜","price":"￥199"}
+]
+
+,"main0":[{"images":"images/g1.jpg"},
+{"title":"魅蓝note3","images":"images/g2.png","introduce":"23日10点 限量开售","price":"￥799"},
+{"title":"魅族 MX6","images":"images/g3.png","introduce":"12期免息 赠智能保护套","price":"￥1999"},
+{"title":"魅蓝 U20","images":"images/g4.png","introduce":"3期免息 月供低至366.33元","price":"￥1099"},
+{"title":"魅蓝 Max","images":"images/g5.png","introduce":"3期免息 月供低至566.33元","price":"￥1699"},
+{"title":"魅族PRO 5","images":"images/g6.png","introduce":"赠魅族EP-31耳机","price":"￥2199"},
+{"title":"魅蓝3s 礼盒版","images":"images/g7.png","introduce":"礼盒含防爆膜 缤纷保护壳","price":"￥799"},
+{"title":"魅蓝3","images":"images/g8.png","introduce":"23日10点 限量开售","price":"￥599"},
+{"title":"魅蓝 E","images":"images/g9.png","introduce":"全网通 多彩金属机身","price":"￥1299"},
+{"title":"魅蓝 metal","images":"images/g10.png","introduce":"金属机身 指纹识别","price":"￥999"}]
+
+,"main1":[{"images":"images/j1.jpg"},
+{"title":"先锋 SEC-CL31","images":"images/j2.png","introduce":"线控高清通话魅友节专属枝江","price":"￥99"},
+{"title":"索尼SONY MDR-XR650BT","images":"images/j3.png","introduce":"头戴边写蓝牙重低音耳机","price":"￥799"},
+{"title":"JBL GO音乐金砖无线蓝牙音响","images":"images/j4.png","introduce":"讲音乐进行到底","price":"￥269"},
+{"title":"FiiO飞傲M3无损音乐播放器","images":"images/j5.png","introduce":"便携式数学音乐播放器","price":"￥298"},
+{"title":"罗马仕AC10快充适配器","images":"images/j6.png","introduce":"支持MTK快充模式","price":"￥29"},
+{"title":"英特曼迷你旅行小插排","images":"images/j7.png","introduce":"手掌大小方便携带","price":"￥19"},
+{"title":"三星存储卡 32G","images":"images/j8.png","introduce":"高速存储捕捉快乐情景","price":"￥49.9"},
+{"title":"闪迪至尊告诉OTG手机U盘","images":"images/j9.png","introduce":"全新设计 USB3.0高速传输","price":"￥45.9"},
+{"title":"HGST昱科Touro Mobile移动硬盘","images":"images/j10.png","introduce":"轻薄小巧 高速稳定","price":"￥309"}]
+ 
+,"main2":[{"images":"images/k1.png"},
+{"title":"幻想D2 LED护眼灯","images":"images/k2.png","introduce":"LED阅读台灯 无极调光","price":"￥69"},
+{"title":"北通阿修罗TE版游戏手柄","images":"images/k3.png","introduce":"魅友专享直降优惠","price":"￥139"},
+{"title":"阿巴町t1502儿童电话手表","images":"images/k4.png","introduce":"拥有高性价比的小傲娇","price":"￥299"},
+{"title":"公子小白智能机器人 青春版","images":"images/k5.png","introduce":"云闹记忆 智能对答 蓝牙音箱","price":"￥999"},
+{"title":"BroadLink黑豆智能wifi遥控","images":"images/k6.png","introduce":"真智能 预约清凉 远离空调病","price":"￥65"},
+{"title":"云麦好轻mini智能体脂天秤","images":"images/k7.png","introduce":"喝杯水都能感知的精准","price":"￥89"},
+{"title":"乐范魔力贴酷炫版","images":"images/k8.png","introduce":"随身按摩 精致小巧 品质升级","price":"￥99"},
+{"title":"乐心体脂秤Melody wifi传输","images":"images/k9.png","introduce":"一体化全闭合机身 精准感应","price":"￥149"},
+{"title":"HGST昱科Touro Mobile移动硬盘","images":"images/k10.png","introduce":"生命在于运动 记录生活点滴","price":"￥1288"}]
+
+,"main3":[{"images":"images/l1.png"},
+{"title":"魅蓝note3","images":"images/l2.png","introduce":"缤纷软胶保护壳","price":"￥49"},
+{"title":"魅族Type-C 金属数据线","images":"images/l3.png","introduce":"支持2A快速城店 耐用又放心","price":"￥39"},
+{"title":"魅族Type-C转接头","images":"images/l4.png","introduce":"小巧便携 随心转换","price":"￥19"},
+{"title":"PRO 6 原装保护壳","images":"images/l5.png","introduce":"全面保护 原机手感","price":"￥168"},
+{"title":"魅族二合一金属数据线","images":"images/l6.png","introduce":"二合一 全兼容","price":"￥49"},
+{"title":"MX6高透保护膜","images":"images/l7.png","introduce":"高清透亮 抗刮耐磨","price":"￥29"},
+{"title":"魅蓝note3 智能保护套","images":"images/l8.png","introduce":"环窗操作 便捷高效","price":"￥99"},
+{"title":"魅蓝Max高透保护膜","images":"images/l9.png","introduce":"更懂屏幕的保护膜","price":"￥29"},
+{"title":"PRO 6换床智能保护套","images":"images/l10.png","introduce":"个性表盘","price":"￥99"}]
+
+
+}

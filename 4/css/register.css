@@ -1,0 +1,45 @@
+/*-----------------common----------------*/
+html, body, ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, form, fieldset, legend, img,.root,.dat{margin:0;padding:0; font-family:"微软雅黑"} 
+a{text-decoration:none;}
+img{ border:0;}
+ul,li{ list-style:none;}
+em,i{ font-style:normal;}
+
+
+
+#logo{width:100%;height:135px;}
+#logo .wrap{width:992px;margin:0 auto;margin-top:44px;}
+#logo .wrap img{float:left;}
+#logo .wrap span{float:right;font-size:13px;}
+#logo .wrap span a{color:gray;}
+
+#yourway{width:345px;margin:0 auto;}
+#yourway span{color:#7f7f7f;margin:0 50px;}
+#yourway a{font-size: 20px;color:#7f7f7f;}
+#yourway a:hover{color:#000;}
+#yourway .a1{color:#00a7ea;}
+#yourway .bottom{width:333px;height:600px;margin-top:25px;text-align:center;}
+#yourway .bottom_0 {width:333px;height:50px;border:1px solid #dadada;margin-bottom:8px;}
+#yourway .bottom_0 a{line-height:50px;float:left;border-right:1px solid #dadada;width:70px;height:50px;font-size:16px;}
+#yourway .bottom_0 input{font:15px/35px "微软雅黑";margin-left:10px;float:right;margin-right:20px;width:230px;height:35px;margin-top:8px;background:none;border:0;}
+#yourway .bottom_1{width:333px;height:50px;border:1px solid #dadada;margin-bottom:8px;}
+#yourway .bottom_1 input{font:15px/35px "微软雅黑";width:220px;height:35px;margin-top:8px;background:none;border:0;float:left;margin-left:10px;}
+#yourway .bottom_1 a{height:48px;line-height:48px;border-left:1px solid #dadada;float:right;width:98px;font-size:16px;}
+#yourway .bottom_2{width:333px;height:50px;border:1px solid #dadada;margin-bottom:8px;}
+#yourway .bottom_2 input{font:15px/35px "微软雅黑";width:260px;height:35px;margin-top:8px;background:none;border:0;float:left;margin-left:10px;}
+#yourway .bottom_2 img{margin-top:13px;}
+#yourway .bottom_3{width:333px;height:20px;display:block;margin-bottom:23px;margin-top:17px; }
+#yourway .bottom_3 img{float:left;}
+#yourway .bottom_3 font{font-size:15px;float:left;margin-left:10px;color:gray;}
+#yourway .bottom_3 .uio{font-size:15px;color:#2ac4f6;float:left;margin-left:5px;}
+#yourway .bottom_4{display:block;width:333px;height:50px;background:#32a5e7;line-height:50px;color:#fff;}
+#yourway .bottom_4:hover{color:#fff;background:#2b8cc5;}
+#yourway .bottom .kk{font-size:13px;color:red;display:block;margin-bottom:8px;height:17px;}
+
+
+
+
+
+
+
+
